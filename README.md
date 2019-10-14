@@ -5,9 +5,9 @@ At the time of joining, the HR potrays the company like it is match made in Heav
 
 ## :question: Questions
 
-|Question |
-|---|
-| Will the Notice period mentioned in the Offer letter, can be increased in future(Actually happened to me)? |
+| S.No. |Question |
+|---|---|
+| 1 | Will the Notice period mentioned in the Offer letter, can be increased in future(Actually happened to me)? |
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
