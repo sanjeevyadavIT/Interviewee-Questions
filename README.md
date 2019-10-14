@@ -1,13 +1,14 @@
 # Interviewee-Questions
 Questions that you should ask HR before accepting the job.
 
-At the time of joining, the HR potrays the company like it is match made in Heaven, but sometimes reality is far from it. I have had my experiences, atleast you should be aware of what you are getting into.
+At the time of joining, the HR portrays the company like it is match made in Heaven, but sometimes reality is far from it. I have had my experiences, atleast you should be aware of what you are getting into.
 
 ## :question: Questions
 
 | S.No. |Question |
 |---|---|
 | 1 | Will the Notice period mentioned in the Offer letter, can be increased in future(Actually happened to me)? |
+| 2 | Is it valid to change the probation period from 6 months (as mentioned by the HR on the Interview Day) to "12 months", in the offer letter which is received 1 month after the Interview and is just a day less than the joining date? 
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
