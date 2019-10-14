@@ -10,7 +10,7 @@ At the time of joining, the HR potrays the company like it is match made in Heav
 | 1 | Will the Notice period mentioned in the Offer letter, can be increased in future(Actually happened to me)? |
 | 2 | Is there any legal bonds regarding the job and if yes what are their norms and policies (Make sure to ask that)? |
 | 3 | What is in-hand salary that will get from gross CTC? |
-| 4 | Is this position for 24x7 rotational? |
+| 4 | Is this position for 24x7 rotational shift (Need to work in shifts 24x7)? |
 | 5 | What is Leave policy in organisation on monthly or yearly basis? |
 | 6 | If start-up, then how company get the fund or sponsorship? |
 | 7 | What are the extra benefits that I will get apart from mentioned in offer letter? |
