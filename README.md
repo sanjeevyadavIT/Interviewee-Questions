@@ -15,11 +15,11 @@ At the time of joining, the HR potrays the company like it is match made in Heav
 | 6 | If start-up, then how company get the fund or sponsorship? |
 | 7 | What are the extra benefits that I will get apart from mentioned in offer letter? |
 
-## Feel free to show your love :heart: by putting a star :star: on this project :v: 
-
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
 If you have some questions that you would like to add, feel free to create a PR. Help this repo grow and empower Interviewee.
+
+## Feel free to show your love :heart: by putting a star :star: on this project :v: 
 
 ## :bulb: Acknowledgements
 
