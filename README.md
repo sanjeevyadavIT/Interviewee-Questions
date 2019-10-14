@@ -16,6 +16,7 @@ At the time of joining, the HR potrays the company like it is match made in Heav
 | 7 | What are the extra benefits that I will get apart from mentioned in offer letter? |
 | 8 | What was the last big achievement(of an employee) that was celebrated? |
 | 9 | Before hiring someone new do you check if someone internal meets the job profile? (Are internal employees promoted?)|
+| 10 | Usually help half or whole financially for IT events and certifications?|
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
