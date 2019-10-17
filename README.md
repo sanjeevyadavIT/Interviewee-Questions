@@ -18,6 +18,7 @@ At the time of joining, the HR potrays the company like it is match made in Heav
 | 9 | Before hiring someone new do you check if someone internal meets the job profile? (Are internal employees promoted?)|
 | 10 | Usually help half or whole financially for IT events and certifications?|
 | 11 | Can you describe the culture of the company?|
+| 12 | How easily the upper management is approachable for suggestion or queries?|
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
