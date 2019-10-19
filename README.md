@@ -19,7 +19,7 @@ At the time of joining, the HR potrays the company like it is match made in Heav
 | 10 | Usually help half or whole financially for IT events and certifications?|
 | 11 | Can you describe the culture of the company?|
 | 12 | How easily the upper management is approachable for suggestion or queries?|
-
+| 13 | In which sectors is the company thinking to expand in the future?
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
 If you have some questions that you would like to add, feel free to create a PR. Help this repo grow and empower Interviewee.
