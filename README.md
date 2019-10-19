@@ -19,7 +19,7 @@ At the time of joining, the HR potrays the company like it is match made in Heav
 | 10 | Usually help half or whole financially for IT events and certifications?|
 | 11 | Can you describe the culture of the company?|
 | 12 | How easily the upper management is approachable for suggestion or queries?|
-| xx | Does your organisation is open for on-site opputunities and Can I get this oppurtunity on starting of day of an organisation? |
+| 13 | Does your organisation provide on-site opportunity? If yes, Can I get this opportunity on starting day of job? |
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
