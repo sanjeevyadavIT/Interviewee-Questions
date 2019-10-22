@@ -19,8 +19,10 @@ At the time of joining, the HR potrays the company like it is match made in Heav
 | 10 | Usually help half or whole financially for IT events and certifications?|
 | 11 | Can you describe the culture of the company?|
 | 12 | How easily the upper management is approachable for suggestion or queries?|
-| 13 | Do you provide cab facility? |
-
+| 13 | Does your organisation provide on-site opportunity? If yes, Can I get this opportunity on starting day of job? |
+| 14 | How is appraisal process here and how it is evaluated (How frequent performance is evaluated)? |
+| 15 | What are the policies for relocation ? |
+| 16 | Do you provide cab facility? |
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
@@ -31,3 +33,4 @@ If you have some questions that you would like to add, feel free to create a PR.
 ## :bulb: Acknowledgements
 
 * [Interview-Questions](https://github.com/rishabh115/Interview-Questions) by [Rishabh Maurya](https://github.com/rishabh115)
+* [reverse-interview](https://github.com/viraptor/reverse-interview) by [viraptor](https://github.com/viraptor)
