@@ -30,3 +30,4 @@ If you have some questions that you would like to add, feel free to create a PR.
 ## :bulb: Acknowledgements
 
 * [Interview-Questions](https://github.com/rishabh115/Interview-Questions) by [Rishabh Maurya](https://github.com/rishabh115)
+* [reverse-interview](https://github.com/viraptor/reverse-interview) by [viraptor](https://github.com/viraptor)
