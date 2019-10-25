@@ -22,6 +22,7 @@ At the time of joining, the HR potrays the company like it is match made in Heav
 | 13 | Does your organisation provide on-site opportunity? If yes, Can I get this opportunity on starting day of job? |
 | 14 | How is appraisal process here and how it is evaluated (How frequent performance is evaluated)? |
 | 15 | What are the policies for relocation ? |
+| 16 | What is the typical career path for someone in this role? |
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
