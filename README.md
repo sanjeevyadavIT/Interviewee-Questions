@@ -1,7 +1,7 @@
 ﻿# Interviewee-Questions
 Questions that you should ask HR before accepting the job.
 
-At the time of joining, the HR potrays the company like it is match made in Heaven, but sometimes reality is far from it. I have had my experiences, atleast you should be aware of what you are getting into.
+At the time of joining, the HR portrays the company like it is match made in Heaven, but sometimes reality is far from it. I have had my experiences, atleast you should be aware of what you are getting into.
 
 ## :question: Questions
 
@@ -18,8 +18,14 @@ At the time of joining, the HR potrays the company like it is match made in Heav
 | 9 | Before hiring someone new do you check if someone internal meets the job profile? (Are internal employees promoted?)|
 | 10 | Usually help half or whole financially for IT events and certifications?|
 | 11 | Can you describe the culture of the company?|
-| 12 | How easily the upper management is approachable for suggestion or queries?|
-| 13 | How is the company doing financially and if they can provide some numbers regarding it? Were there any major setbacks that they face recently(tech or non-tech)? |
+| 12 | How is the company doing financially and if they can provide some numbers regarding it? Were there any major setbacks that they face recently(tech or non-tech)? |
+| 13 | Does your organisation provide on-site opportunity? If yes, Can I get this opportunity on starting day of job? |
+| 14 | How is appraisal process here and how it is evaluated (How frequent performance is evaluated)? |
+| 15 | What are the policies for relocation ? |
+| 16 | What is the typical career path for someone in this role? |
+| 17 | How easily the upper management is approachable for suggestion or queries?|
+| 18 | Do you provide cab facility? |
+| 19 | In which sectors is the company thinking to expand in the future? |
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
@@ -30,3 +36,4 @@ If you have some questions that you would like to add, feel free to create a PR.
 ## :bulb: Acknowledgements
 
 * [Interview-Questions](https://github.com/rishabh115/Interview-Questions) by [Rishabh Maurya](https://github.com/rishabh115)
+* [reverse-interview](https://github.com/viraptor/reverse-interview) by [viraptor](https://github.com/viraptor)
