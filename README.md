@@ -1,7 +1,7 @@
 ﻿# Interviewee-Questions
 Questions that you should ask HR before accepting the job.
 
-At the time of joining, the HR potrays the company like it is match made in Heaven, but sometimes reality is far from it. I have had my experiences, atleast you should be aware of what you are getting into.
+At the time of joining, the HR portrays the company like it is match made in Heaven, but sometimes reality is far from it. I have had my experiences, atleast you should be aware of what you are getting into.
 
 ## :question: Questions
 
@@ -22,7 +22,9 @@ At the time of joining, the HR potrays the company like it is match made in Heav
 | 13 | Does your organisation provide on-site opportunity? If yes, Can I get this opportunity on starting day of job? |
 | 14 | How is appraisal process here and how it is evaluated (How frequent performance is evaluated)? |
 | 15 | What are the policies for relocation ? |
-| 16 | Do you provide cab facility? |
+| 16 | What is the typical career path for someone in this role? |
+| 17 | How easily the upper management is approachable for suggestion or queries?|
+| 18 | Do you provide cab facility? |
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
