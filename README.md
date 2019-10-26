@@ -18,7 +18,7 @@ At the time of joining, the HR portrays the company like it is match made in Hea
 | 9 | Before hiring someone new do you check if someone internal meets the job profile? (Are internal employees promoted?)|
 | 10 | Usually help half or whole financially for IT events and certifications?|
 | 11 | Can you describe the culture of the company?|
-| 12 | How easily the upper management is approachable for suggestion or queries?|
+| 12 | How is the company doing financially and if they can provide some numbers regarding it? Were there any major setbacks that they face recently(tech or non-tech)? |
 | 13 | Does your organisation provide on-site opportunity? If yes, Can I get this opportunity on starting day of job? |
 | 14 | How is appraisal process here and how it is evaluated (How frequent performance is evaluated)? |
 | 15 | What are the policies for relocation ? |
