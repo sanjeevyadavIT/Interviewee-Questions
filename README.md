@@ -26,6 +26,7 @@ At the time of joining, the HR portrays the company like it is match made in Hea
 | 17 | How easily the upper management is approachable for suggestion or queries?|
 | 18 | Do you provide cab facility? |
 | 19 | In which sectors is the company thinking to expand in the future? |
+| 20 | Do you provide relocation allowance?|
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
