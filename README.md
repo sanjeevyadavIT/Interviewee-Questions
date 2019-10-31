@@ -30,6 +30,7 @@ At the time of joining, the HR portrays the company like it is match made in Hea
 | 21 | Do you hire by rubric, by gut feeling or a blend of these?|
 | 22 | Do you have a higher turnover rate for minorities in the company as a whole, and in the department specifically?|
 | 23 | If there is downtime during work hours, what are the expectations? (aka: can I read and study for a cert during work hours if there's nothing to do?)|
+| 27 | How many people will I be working with?|
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
