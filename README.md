@@ -31,6 +31,7 @@ At the time of joining, the HR portrays the company like it is match made in Hea
 | 22 | Do you have a higher turnover rate for minorities in the company as a whole, and in the department specifically?|
 | 23 | If there is downtime during work hours, what are the expectations? (aka: can I read and study for a cert during work hours if there's nothing to do?)|
 | 24 | Who will I be working most closely with?
+| 25 | According to you what are the qualities that new employee should must have? And which are the qualities that I have from that?
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
