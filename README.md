@@ -30,14 +30,17 @@ At the time of joining, the HR portrays the company like it is match made in Hea
 | 21 | Do you hire by rubric, by gut feeling or a blend of these?|
 | 22 | Do you have a higher turnover rate for minorities in the company as a whole, and in the department specifically?|
 | 23 | If there is downtime during work hours, what are the expectations? (aka: can I read and study for a cert during work hours if there's nothing to do?)|
-| 24 | Who will I be working most closely with?
-| 25 | In which technology I will work if I get selected?|
 
-## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+| 24 | Who will I be working most closely with?
+| 25 | What do you see as the most challenging aspect of this job?
+| 26 | In which technology I will work if I get selected?|
+
+
+## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 If you have some questions that you would like to add, feel free to create a PR. Help this repo grow and empower Interviewee.
 
-## Feel free to show your love :heart: by putting a star :star: on this project :v: 
+## Feel free to show your love :heart: by putting a star :star: on this project :v:
 
 ## :bulb: Acknowledgements
 
