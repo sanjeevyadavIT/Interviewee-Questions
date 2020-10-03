@@ -33,6 +33,11 @@ At the time of joining, the HR portrays the company like it is match made in Hea
 | 24 | Who will I be working most closely with? |
 | 25 | What do you see as the most challenging aspect of this job? |
 | 26 | In which technology I will work if I get selected? |
+| 27 | is Work from anywhere policy in place? if yes what are its norms |
+| 28 | how many leaves are credited in a month? how many are carryforward to next year if unused? |
+| 29 | Name of the client im gonna work with?(if you are joining a service based company) |
+| 30 | Can you please tell about the medical insurance policy in place for the company|
+
 
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
