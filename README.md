@@ -37,6 +37,8 @@ At the time of joining, the HR portrays the company like it is match made in Hea
 | 28 | how many leaves are credited in a month? how many are carryforward to next year if unused? |
 | 29 | Name of the client im gonna work with?(if you are joining a service based company) |
 | 30 | Can you please tell about the medical insurance policy in place for the company|
+| 31 | How big are the teams? |
+| 32 | Do you work agile or follow any other process framework? |
 
 
 
