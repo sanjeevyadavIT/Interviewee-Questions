@@ -33,6 +33,9 @@ At the time of joining, the HR portrays the company like it is match made in Hea
 | 24 | Who will I be working most closely with? |
 | 25 | What do you see as the most challenging aspect of this job? |
 | 26 | In which technology I will work if I get selected? |
+| 27 | How big are the teams? |
+| 28 | Do you work agile or follow any other process framework? |
+
 
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
