@@ -39,6 +39,12 @@ At the time of joining, the HR portrays the company like it is match made in Hea
 | 30 | Can you please tell about the medical insurance policy in place for the company|
 | 31 | How big are the teams? |
 | 32 | Do you work agile or follow any other process framework? |
+| 33 | What are some of the rapid innovation technologies that your company would adopt in case of some risky situations? |
+| 34 | While building a new product(if it's a product-based company), you may need many small integrations. Would you prefer looking into the market or build something of your own internally? |
+| 35 | Do you provide professional development opportunities? |
+| 36 | How does the company measure success in this role? |
+| 37 | What is your company’s customer service philosophy? |
+| 38 | What is the biggest challenge the company has faced in the past year? |
 
 
 
