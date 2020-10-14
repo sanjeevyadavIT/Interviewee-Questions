@@ -1,7 +1,7 @@
 ﻿# Interviewee-Questions
-Questions that you should ask HR before accepting the job.
+Questions that you could ask HR/interviewer to help you make decision before joining.
 
-At the time of joining, the HR portrays the company like it is match made in Heaven, but sometimes reality is far from it. I have had my experiences, atleast you should be aware of what you are getting into.
+At the time of joining, the HR/interviewer portrays the company like it is match made in Heaven, but sometimes reality is far from it. I have had my experiences, atleast you should be aware of what you are getting into. Ask these questions to find potential red flags 🚩 before making a decision. 
 
 ## :question: Questions
 
