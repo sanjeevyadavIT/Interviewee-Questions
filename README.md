@@ -44,7 +44,7 @@ At the time of joining, the HR/interviewer portrays the company like it is match
 | 35 | Do you work agile or follow any other process framework? |
 | 36 | Does your organisation provide on-site opportunity? If yes, What are the criteria to get the opportunity? |
 | 37 | Describe the team dynamics and working relationships? How big are the teams? |
-
+| 38 | What does the work-life ratio look like in this job role? |
 
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
